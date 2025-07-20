@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3439962c-a296-4b00-8327-5ca70d6630b2" name="변경" comment="" />
+    <list default="true" id="3439962c-a296-4b00-8327-5ca70d6630b2" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/demo/controller/probe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/demo/controller/probe.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
